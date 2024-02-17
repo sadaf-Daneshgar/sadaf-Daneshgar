@@ -13,7 +13,7 @@
 
 - 👨‍💻 You can see my portfolio [https://sadaf-daneshgar.github.io/First-Project-Microverse/](https://sadaf-daneshgar.github.io/First-Project-Microverse/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React-Redux, Ruby, Postgresql, Sql, and Java.**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React-Redux, Ruby, Postgresql, Sql, Ruby on Rails and Java.**
 
 - 📫 How to reach me **sadaf.barekzai54321@gmail.com**
 
